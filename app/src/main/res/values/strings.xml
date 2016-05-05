@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PlayerXMLParserWithSQL</string>
+    <string name="playerNameHint">Player name</string>
+    <string name="playerNumberHint">Number</string>
+    <string name="submitPlayerText">Create player</string>
+    <string name="connection_error">Connection error</string>
+    <string name="xml_error">XML parsing error</string>
+</resources>
